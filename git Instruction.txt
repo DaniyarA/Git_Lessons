@@ -1,0 +1,6 @@
+Instruction for use GIT Repositories:
+1. git init - initialization git repository
+2. git status - check git status
+3. git add . - add files in git folder to repository
+4. git status - check added files status
+5. git commit -m "Some text about changes" - commit changed files to git repository
